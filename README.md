@@ -1,5 +1,5 @@
 # Planetary-Horizons
-This is a mobile and desktop game that will allow you explore other planets in the solar system.
+This is a mobile and desktop game that will allow you explore other planets in the solar system. This is a game very early in development, so stay tuned and go to the announcement discussions for updates.
 
 <h2>Discussions Guidelines</h2>
 <p>There is no regulation for speech because I want to encourage everyone to speak freely. Although, you'll be limited to GitHub's guidelines which will be enforced by Github, not me.</p>
